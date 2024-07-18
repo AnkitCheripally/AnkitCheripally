@@ -29,7 +29,7 @@ I'm a passionate third-year engineering student with a diverse skill set in soft
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitcheripally?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ankit_cheripally)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ankit-cheripally.dev)
 
 ---
