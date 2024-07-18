@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ankit Cheripally!
+ # 👋 Hello, I'm Ankit Cheripally!
 
 ### 🎓 Student | 🚀 Tech Enthusiast | 💻 Developer
 
@@ -8,9 +8,15 @@ I'm a passionate third-year engineering student with a diverse skill set in soft
 
 ### 🛠 Tech Stack
 
-- **Languages:** Java, C, Python, HTML, CSS
-- **Frameworks/Libraries:** .NET, Bootstrap, ReactJS, AngularJS
-- **Tools:** Git, GitHub, VS Code
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -22,9 +28,9 @@ I'm a passionate third-year engineering student with a diverse skill set in soft
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ankit-cheripally)
-- [Twitter](https://twitter.com/ankit_cheripally)
-- [Portfolio](https://ankit-cheripally.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitcheripally?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ankit_cheripally)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ankit-cheripally.dev)
 
 ---
 
@@ -42,17 +48,3 @@ Did you know that I love to solve complex algorithms in my free time? Let's conn
 ---
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AnkitCheripally.AnkitCheripally)
-<!--
-**AnkitCheripally/AnkitCheripally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
